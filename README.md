@@ -46,5 +46,4 @@ The dataset used in this project is from the [UCI Machine Learning Repository](h
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/algerian-forest-fire-prediction.git
-
+   git clone https://github.com/Mishthijainn/agerian-forest-fires.git
